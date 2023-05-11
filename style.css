@@ -1246,6 +1246,7 @@ nav .container-nav .login .btn-sign:hover {
     .container-learning {
         background-color: #F8F8FF;
         padding: 30px 40px;
+        width: 100%;
         /* margin: 30px 20px; */
     }
     .container-learning h3 {
@@ -1288,8 +1289,8 @@ nav .container-nav .login .btn-sign:hover {
         width: fit-content;
     }
     .container-learning .cards .starter img {
-        width: 120px;
-        height: 120px;
+        width: 80px;
+        height: 80px;
     }
     .container-learning .cards .starter h3 {
         margin-top: 30px;
@@ -1313,8 +1314,8 @@ nav .container-nav .login .btn-sign:hover {
         width: fit-content;
     }
     .container-learning .cards .premium img {
-        width: 120px;
-        height: 120px;
+        width: 80px;
+        height: 80px;
     }
     .container-learning .cards .premium h3 {
         margin-top: 30px;
@@ -1338,8 +1339,8 @@ nav .container-nav .login .btn-sign:hover {
         width: fit-content;
     }
     .container-learning .cards .superstar img {
-        width: 120px;
-        height: 120px;
+        width: 80px;
+        height: 80px;
     }
     .container-learning .cards .superstar h3 {
         margin-top: 30px;
@@ -1363,8 +1364,8 @@ nav .container-nav .login .btn-sign:hover {
         width: fit-content;
     }
     .container-learning .cards .bootcamp img {
-        width: 120px;
-        height: 120px;
+        width: 80px;
+        height: 80px;
     }
     .container-learning .cards .bootcamp h3 {
         margin-top: 30px;
