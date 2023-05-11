@@ -1286,7 +1286,7 @@ nav .container-nav .login .btn-sign:hover {
         border-radius: 12px;
         padding: 20px;
         height: fit-content;
-        width: 400px;
+        width: 300px;
     }
     .container-learning .cards .starter img {
         width: 80px;
@@ -1311,7 +1311,7 @@ nav .container-nav .login .btn-sign:hover {
         border-radius: 12px;
         padding: 30px;
         height: fit-content;
-        width: 400px;
+        width: 300px;
     }
     .container-learning .cards .premium img {
         width: 80px;
@@ -1336,7 +1336,7 @@ nav .container-nav .login .btn-sign:hover {
         border-radius: 12px;
         padding: 30px;
         height: fit-content;
-        width: 400px;
+        width: 300px;
     }
     .container-learning .cards .superstar img {
         width: 80px;
@@ -1361,7 +1361,7 @@ nav .container-nav .login .btn-sign:hover {
         border-radius: 12px;
         padding: 30px;
         height: fit-content;
-        width: 400px;
+        width: 300px;
     }
     .container-learning .cards .bootcamp img {
         width: 80px;
@@ -1384,7 +1384,7 @@ nav .container-nav .login .btn-sign:hover {
     .container-learning .cards .btn-see {
         background-color: #44E4C9;
         color: #fff;
-        padding: 10px 160px;
+        padding: 10px 90px;
         border-radius: 10px;
         border: none;
         font-size: 14px;
@@ -1441,6 +1441,7 @@ nav .container-nav .login .btn-sign:hover {
     .container-companies {
         background-color: #F8F8FF;
         padding: 20px 30px;
+        width: 100%;
     }
     .container-companies h2 {
         font-size: 36px;
