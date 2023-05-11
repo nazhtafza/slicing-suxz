@@ -1457,9 +1457,7 @@ nav .container-nav .login .btn-sign:hover {
         margin-top: 10px;
     }
     .container-companies .logos {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
+        display: block;
         align-items: center;
         margin-top: 50px;
         gap: 30px;
@@ -1473,18 +1471,21 @@ nav .container-nav .login .btn-sign:hover {
         font-size: 20px;
         font-weight: 700;
         color: #8C82FC;
+        text-align: center;
     }
     .container-testimonial h2 {
-        font-size: 44px;
+        font-size: 36px;
         font-weight: 700;
         color: #22293E;
         margin-top: 4px;
+        text-align: center;
     }
     .container-testimonial p {
-        font-size: 24px;
+        font-size: 16px;
         font-weight: 500;
         color: #222831;
         margin-top: 16px;
+        text-align: center;
     }
     /* kartu */
     .container-testimonial .cards {
@@ -1494,7 +1495,7 @@ nav .container-nav .login .btn-sign:hover {
         gap: 30px;
     }
     .container-testimonial .cards .kartu {
-        width: fit-content;
+        width: 250px;
         height: fit-content;
         border: #8C82FC 1px solid;
         border-radius: 10px;
