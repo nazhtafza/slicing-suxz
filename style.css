@@ -1438,6 +1438,10 @@ nav .container-nav .login .btn-sign:hover {
         font-weight: 500;
         color: #222831;
     }
+    .container-companies {
+        background-color: #F8F8FF;
+        padding: 20px 30px;
+    }
     .container-companies h2 {
         font-size: 36px;
         font-weight: 800;
