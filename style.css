@@ -1284,7 +1284,7 @@ nav .container-nav .login .btn-sign:hover {
     .container-learning .cards .starter {
         background-color: #fff;
         border-radius: 12px;
-        padding: 30px;
+        padding: 20px;
         height: fit-content;
         width: fit-content;
     }
@@ -1294,14 +1294,14 @@ nav .container-nav .login .btn-sign:hover {
     }
     .container-learning .cards .starter h3 {
         margin-top: 30px;
-        font-size: 32px;
+        font-size: 28px;
         font-weight: 700;
         color: #22293E;
         margin-top: 20px;
     }
     .container-learning .cards .starter p {
         margin-top: 10px;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
         color: #222831;
     }
@@ -1319,14 +1319,14 @@ nav .container-nav .login .btn-sign:hover {
     }
     .container-learning .cards .premium h3 {
         margin-top: 30px;
-        font-size: 32px;
+        font-size: 28px;
         font-weight: 700;
         color: #22293E;
         margin-top: 20px;
     }
     .container-learning .cards .premium p {
         margin-top: 10px;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
         color: #222831;
     }
@@ -1344,14 +1344,14 @@ nav .container-nav .login .btn-sign:hover {
     }
     .container-learning .cards .superstar h3 {
         margin-top: 30px;
-        font-size: 32px;
+        font-size: 28px;
         font-weight: 700;
         color: #fff;
         margin-top: 20px;
     }
     .container-learning .cards .superstar p {
         margin-top: 10px;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
         color: #fff;
     }
@@ -1369,14 +1369,14 @@ nav .container-nav .login .btn-sign:hover {
     }
     .container-learning .cards .bootcamp h3 {
         margin-top: 30px;
-        font-size: 32px;
+        font-size: 28px;
         font-weight: 700;
         color: #22293E;
         margin-top: 20px;
     }
     .container-learning .cards .bootcamp p {
         margin-top: 10px;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
         color: #222831;
     }
@@ -1387,7 +1387,7 @@ nav .container-nav .login .btn-sign:hover {
         padding: 10px 160px;
         border-radius: 10px;
         border: none;
-        font-size: 18px;
+        font-size: 14px;
         font-weight: 700;
         margin-top: 30px;
     }
